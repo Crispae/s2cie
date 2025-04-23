@@ -1,0 +1,43 @@
+{
+  "mongodb": {
+    "url": "mongodb://localhost:27017",
+    "db": "AOP",
+    "collection": "Bern2",
+    "db_version":"1.0.0"
+  },
+
+  "embed_db":{
+    "path":"/opt/embeddings/cpt.db"
+  },
+
+  "flask": {
+    "debug": false,
+    "host": "0.0.0.0",
+    "port": 8050
+  },
+
+  "distributed_custom_search": {
+  "port_range": [8585, 8594],
+  "serverAddressList": [
+      "endpoint1:port1",
+      "endpoint1:port1"
+    ]
+  },
+
+  "distributed_port_search": {
+    "port_range": [8585, 8594],
+    "serverAddressList": [
+        "endpoint1:port1",
+        "endpoint1:port1"
+      ]
+    },
+
+    "distributed_url_search": {
+      "port_range": [8585, 8594],
+      "serverAddressList": [
+        "endpoint1:port1",
+      "endpoint1:port1"
+        ]
+      }
+
+}

@@ -72,15 +72,7 @@ bash index-server.sh
      ```
    - Move the database to your desired location
    - For production deployment, it's recommended to migrate this data to a production-grade SQL database
-   - 
-4. Setup Context Database:
-   - Download the context database:
-     ```bash
-     curl -L -o cpt.db "https://eu2.contabostorage.com/d1a2d105c028442a9d537e44356d5594:index/context/cpt.db"
-     ```
-   - Move the database to your desired location
-   - For production deployment, it's recommended to migrate this data to a production-grade SQL database
-   
+  
 5. Setup Entity Database (MongoDB):
    - Install MongoDB Community Server from [MongoDB Download Center](https://www.mongodb.com/try/download/community)
    - Start MongoDB service:

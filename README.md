@@ -2,10 +2,14 @@
 
 S2CIE is a comprehensive information extraction system that combines syntactic, semantic, and contextual approaches to extract meaningful information from text documents.
 
+
+## Server updates
+1. Contabo server is under migration, might cause issue with S2CIE hosting. 
+
 ## Update
-1. Migrating API to FastAPI (In progress)
-2. Adding streaming feature to deliver fast response (In progress)
-3. Adding compoent to ingest full-text, dossiers and IUCLID reports
+2. Migrating API to FastAPI (In progress)
+3. Adding streaming feature to deliver fast response (In progress)
+4. Adding compoent to ingest full-text, dossiers and IUCLID reports
 
 ## System Components
 

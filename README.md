@@ -1,4 +1,7 @@
 # S2CIE (Syntactic, Semantic and Contextual Information Extraction system)
+[![DOI](https://zenodo.org/badge/967377219.svg)](https://doi.org/10.5281/zenodo.15349079)
+
+
 
 S2CIE is a comprehensive information extraction system that combines syntactic, semantic, and contextual approaches to extract meaningful information from text documents.
 

@@ -2,6 +2,10 @@
 [![DOI](https://zenodo.org/badge/967377219.svg)](https://doi.org/10.5281/zenodo.15349079)
 
 
+## FEEDBACK
+[]  Filtering review paper
+[]  Search filter with extracted entites
+[]  Highlight Captures, allow filtering as well
 
 S2CIE is a comprehensive information extraction system that combines syntactic, semantic, and contextual approaches to extract meaningful information from text documents.
 
